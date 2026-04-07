@@ -31,7 +31,7 @@ Relationships are implemented using foreign keys to maintain data integrity.
 - CRUD operations
 
 ## 🎥 Demo Video
-(Add your video link here)
+Link - https://1drv.ms/v/c/3b2aad642e71f5a3/IQDE_dp9gbXmS4u64qX9Q23BAeTpkHbu3ajv2Ywkwl6kRKs?e=fSbQpY
 
 ## 👤 Author
 Collins Wachira Ndegwa
